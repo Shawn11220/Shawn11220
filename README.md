@@ -1,5 +1,5 @@
 # « About Me:
--Currently working on web dev for MATHONGO.<br>
+-Worked with MATHONGO for web operations.<br>
 -Looking to collaborate with experienced techies.<br>
 -Looking for helping and growth.<br>
 -Im currently learning app dev.<br>
@@ -22,8 +22,6 @@
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kailash11220&icon=3&color=9)](https://visitcount.itsvg.in)
