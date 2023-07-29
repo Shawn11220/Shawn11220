@@ -2,7 +2,7 @@
 -Worked with MATHONGO for web operations.<br>
 -Looking to collaborate with experienced techies.<br>
 -Looking for helping and growth.<br>
--Im currently learning app dev.<br>
+-Learning App Dev.<br>
 -Default social life (null) :)
 
 
