@@ -3,7 +3,7 @@
 -Looking to collaborate with experienced techies.<br>
 -Looking for helping and growth.<br>
 -Learning App Dev.<br>
--Default social life (null) :)
+
 
 
 ## Socials:
